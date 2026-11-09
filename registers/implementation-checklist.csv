@@ -1,0 +1,13 @@
+﻿check_id,implementation_check,evidence_prompt,owner,status
+IMP-01,Approve scope and interfaces,"Scope, interested parties, boundary rationale",ISMS Sponsor,Not assessed - simulation
+IMP-02,Approve calibrated risk method,"Scales, appetite, owners and review cadence",Information Security Lead,Not assessed - simulation
+IMP-03,Inventory and classify assets,"Owner, classification, CIA and dependencies",Asset Owners,Not assessed - simulation
+IMP-04,Link risks to treatments,"Action owner, due date, controls and closure test",Risk Owners,Not assessed - simulation
+IMP-05,Justify SoA decisions individually,Inclusion/exclusion rationale and status,Information Security Lead,Not assessed - simulation
+IMP-06,Approve and communicate policies,"Version, approver, audience and review date",ISMS Sponsor,Not assessed - simulation
+IMP-07,Plan competence and awareness,Role-based learning and evaluation,People Operations,Not assessed - simulation
+IMP-08,Collect operating evidence,"Current records, samples and effectiveness tests",Control Owners,Not assessed - simulation
+IMP-09,Exercise incident and continuity,"Tabletop, recovery results and corrective actions",Operations Lead,Not assessed - simulation
+IMP-10,Complete independent internal audit,"Program, findings and verified action closure",Internal Auditor,Not assessed - simulation
+IMP-11,Record management review outputs,"Decisions, resources, changes and follow-up",General Manager,Not assessed - simulation
+IMP-12,Verify corrective action effectiveness,"Root cause, evidence and effectiveness check",Action Owners,Not assessed - simulation

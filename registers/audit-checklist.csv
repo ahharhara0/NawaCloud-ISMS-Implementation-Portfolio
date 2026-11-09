@@ -1,0 +1,12 @@
+﻿audit_id,topic,question_or_test,fictional_evidence_reference,expected_result,linked_controls
+AUD-01,Scope,Compare service boundary and dependencies with the asset register,EV-AST-01,Assets and suppliers are represented; exclusions have rationale,A.4.3; A.5.9
+AUD-02,Risk,"Trace sampled risk to owner, treatment, date, controls, and closure criteria",EV-ORG-01,Traceable treatment and authorized residual-risk acceptance,Clause 6.1.2; Clause 6.1.3
+AUD-03,Access,"Sample fictional accounts for approval, MFA, review, and revocation",EV-IAM-01,"Access is approved, appropriate, current, and removed promptly",A.5.15; A.5.18; A.8.5
+AUD-04,Workforce,"Trace fictional joiner/mover/leaver sample to training, NDA, and access removal",EV-IAM-01,Lifecycle steps are completed and recorded,A.6.2; A.6.3; A.6.6
+AUD-05,Change,"Trace simulated release from request through review, test, approval, and rollback plan",EV-DEV-01,"Independent review, test, and release record are present",A.8.25; A.8.29; A.8.32
+AUD-06,Secrets,Review synthetic repository scan outcome without exposing credentials,EV-DEV-01,No active secrets or documented exception treatment,A.8.4; A.8.12; A.8.28
+AUD-07,Suppliers,"Inspect sample assessment, agreement, review date, and exit plan",EV-SUP-01,Supplier risk is proportionate to service and data,A.5.19; A.5.20; A.5.22
+AUD-08,Backups,Inspect fictional restore exercise and measure recovery time and point,EV-BCP-01,Restore meets targets or has approved corrective action,A.8.13; A.5.30
+AUD-09,Incidents,"Run tabletop and trace detection, escalation, containment, and lessons",EV-INC-01,"Clear roles, event timeline, and follow-up actions",A.5.24; A.5.26; A.5.27
+AUD-10,Logging,Check critical log-source coverage and test synthetic alert,EV-INC-01,Detection/escalation works and records are protected,A.8.15; A.8.16
+AUD-11,Audit,Verify auditor independence and track findings through closure,EV-AUD-01,"Approved program, recorded results, and corrective actions",Clause 9.2; Clause 10.1

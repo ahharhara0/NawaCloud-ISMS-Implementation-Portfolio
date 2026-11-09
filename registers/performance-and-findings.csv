@@ -1,0 +1,8 @@
+﻿metric_id,objective_or_measure,target,frequency,owner,current_simulated_state,response_if_missed
+KPI-01,Monthly platform availability,>=99.5%,Monthly,Operations Lead,Not measured - simulation,Analyze outage causes and corrective actions
+KPI-02,Significant incident escalation,<=1 hour from detection,Per incident / quarterly exercise,Incident Lead,Not tested - simulation,Review alert routing and escalation coverage
+KPI-03,Backup restore exercise,At least one per quarter,Quarterly,Operations Lead,Not performed - simulation,Open corrective action and retest
+KPI-04,Privileged MFA coverage,100% of privileged identities,Monthly,Information Security Lead,Not verified - simulation,Block unprotected privileged access
+KPI-05,Security learning completion,>=95% annually,Quarterly,People Operations,Not measured - simulation,Notify managers and schedule catch-up
+F-01,Simulated privileged access coverage gap,Critical,Open,Information Security Lead,Fictional finding only,Complete MFA rollout and independent sample test
+F-02,Simulated restore test evidence gap,High,Open,Operations Lead,Fictional finding only,Conduct isolated restore and record actual exercise result

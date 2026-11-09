@@ -1,0 +1,5 @@
+﻿quarter,audience,activity,fictional_target,evidence_reference,status
+Q1,All personnel,Core security and privacy refresher,95% completion by quarter end,EV-TRN-01,Planned (simulated)
+Q2,All personnel,Phishing and reporting simulation,90% report within one business day,EV-TRN-02,Planned (simulated)
+Q3,Engineering,Secure-release workshop,All release approvers complete exercise,EV-TRN-03,Planned (simulated)
+Q4,Incident roles,Incident tabletop and lessons learned,All response roles participate,EV-INC-01,Planned (simulated)

@@ -1,0 +1,5 @@
+﻿review_id,input,fictional_observation,decision_or_action,owner,target_date,state
+MR-01,Risk register,12 modeled risks; privileged identity risk remains the top inherent priority,Complete privileged MFA and review residual exposure,Information Security Lead,2026-12-31,Illustrative decision
+MR-02,Continuity,Restore exercise has not been evidenced in this simulation,Schedule isolated restore exercise,Operations Lead,2027-01-15,Illustrative decision
+MR-03,Audit program,11 procedures prepared; no real testing performed,Arrange independent review of access and release controls,General Manager,2027-02-01,Illustrative decision
+MR-04,Awareness,Role-based plan drafted; no completion records exist,Require onboarding module before production access,People Operations,2027-01-31,Illustrative decision

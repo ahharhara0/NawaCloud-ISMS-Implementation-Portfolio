@@ -1,0 +1,13 @@
+﻿asset_id,name,description,owner,classification,confidentiality,integrity,availability,dependency
+AST-01,NawaCloud platform,Web application and booking APIs,Engineering Lead,Confidential,5,5,5,Cloud provider; identity provider
+AST-02,Production database,Customer accounts and operational booking data,Service Owner,Restricted,5,5,5,Managed cloud database
+AST-03,Source repository,Application source and non-secret build configuration,Engineering Lead,Confidential,4,5,4,External repository hosting
+AST-04,Build and deployment pipeline,"Automated testing, release build, and deployment",Engineering Lead,Confidential,4,5,5,CI/CD provider; cloud platform
+AST-05,Workforce identities,Staff authentication and privileged accounts,Information Security Lead,Restricted,5,5,5,Identity provider; email
+AST-06,Database backups,Encrypted recovery copies and retention settings,Operations Lead,Restricted,5,5,5,Cloud backup service
+AST-07,Workforce endpoints,Managed devices used for remote work,Operations Lead,Confidential,4,4,4,Endpoint management; support supplier
+AST-08,Support and ticketing platform,Customer requests and diagnostic details,Support Manager,Confidential,4,4,4,External SaaS provider
+AST-09,Monitoring records,"Identity, application, and infrastructure event records",Operations Lead,Confidential,4,5,5,Logging and alert service
+AST-10,Cloud configuration,"Identities, networks, policies, and infrastructure as code",Engineering Lead,Restricted,5,5,5,Cloud provider
+AST-11,Customer contracts and instructions,Service agreements and processing instructions,Operations Manager,Confidential,5,4,3,Cloud file storage; sharing service
+AST-12,Operational knowledge,"Runbooks, support knowledge, and response procedures",General Manager,Internal,3,3,4,Availability of critical roles

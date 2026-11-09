@@ -1,0 +1,10 @@
+﻿step,prompt,record_required
+Context,"What service, information, identity, or dependency may be affected?",Asset and scope boundary
+Event,What could happen and who or what could cause it?,Risk event and threat
+Enabling condition,What weakness or circumstance makes the event plausible?,Vulnerability/condition
+Impact,"What are confidentiality, integrity, availability, contractual, and trust consequences?",Impact rationale
+Current safeguards,"What is operating now, and what evidence confirms it?",Control and evidence references
+Rating,What assumptions support likelihood and impact?,Score and uncertainty note
+Treatment,"What action, owner, due date, and controls are selected?",Treatment plan
+Residual risk,"What remains after treatment, and who can accept it?",Residual score and approval
+Closure,What test and evidence would demonstrate the action worked?,Closure criterion

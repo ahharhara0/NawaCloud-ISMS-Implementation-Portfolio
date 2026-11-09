@@ -1,0 +1,12 @@
+﻿audit_id,evidence_id,description,owner_role,period,collection_date,sensitivity,storage_reference,test_performed,result,limitation,follow_up_owner,due_date,record_state
+AUD-01,EV-AST-01,SIMULATED ONLY - fictional asset register extract,Asset Owner,Simulation period,,Fictional placeholder,,Not tested,No real inventory was collected,,,,Not collected - simulation
+AUD-02,EV-ORG-01,SIMULATED ONLY - fictional risk review record,ISMS Sponsor,Simulation period,,Fictional placeholder,,Not tested,No real meeting or approval occurred,,,,Not collected - simulation
+AUD-03,EV-IAM-01,SIMULATED ONLY - fictional access review sample,Information Security Lead,Simulation period,,Fictional placeholder,,Not tested,No real user/account records are included,,,,Not collected - simulation
+AUD-04,EV-IAM-01,SIMULATED ONLY - fictional workforce lifecycle sample,Operations Lead,Simulation period,,Fictional placeholder,,Not tested,No real employee records are included,,,,Not collected - simulation
+AUD-05,EV-DEV-01,SIMULATED ONLY - fictional change and release trace,Engineering Lead,Simulation period,,Fictional placeholder,,Not tested,No real repository or production release was examined,,,,Not collected - simulation
+AUD-06,EV-DEV-01,SIMULATED ONLY - fictional secret scan result,Engineering Lead,Simulation period,,Fictional placeholder,,Not tested,No real source code was scanned,,,,Not collected - simulation
+AUD-07,EV-SUP-01,SIMULATED ONLY - fictional supplier review,Service Owner,Simulation period,,Fictional placeholder,,Not tested,No real supplier contract was reviewed,,,,Not collected - simulation
+AUD-08,EV-BCP-01,SIMULATED ONLY - fictional restore exercise,Operations Lead,Simulation period,,Fictional placeholder,,Not tested,No real backup or restoration was run,,,,Not collected - simulation
+AUD-09,EV-INC-01,SIMULATED ONLY - fictional incident tabletop,Incident Lead,Simulation period,,Fictional placeholder,,Not tested,No real security incident occurred,,,,Not collected - simulation
+AUD-10,EV-INC-01,SIMULATED ONLY - fictional logging and alert exercise,Operations Lead,Simulation period,,Fictional placeholder,,Not tested,No production logs or alerts were inspected,,,,Not collected - simulation
+AUD-11,EV-AUD-01,SIMULATED ONLY - fictional audit action follow-up,Internal Auditor,Simulation period,,Fictional placeholder,,Not tested,No actual audit or corrective action was completed,,,,Not collected - simulation

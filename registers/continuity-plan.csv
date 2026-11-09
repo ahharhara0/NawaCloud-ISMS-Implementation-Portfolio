@@ -1,0 +1,5 @@
+﻿service,illustrative_rto_hours,illustrative_rpo_hours,recovery_approach,exercise_frequency,fictional_evidence
+Production application,8,4,Redeploy verified release and validate service health,Quarterly,EV-BCP-01
+Appointment database,8,4,Restore protected backup and validate tenant boundaries,Quarterly,EV-BCP-01
+Identity and administration,4,1,Controlled break-glass access with dual review; rotate credentials after use,Semiannual,EV-IAM-01
+Customer support,12,24,Approved alternate communication channel with minimum necessary case data,Annual,EV-BCP-02
